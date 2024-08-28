@@ -1,1 +1,1 @@
-This could be a local magazine that includes news, society-style publications, ads from local businesses and government announcements.
+This will be a local magazine that includes news, society-style publications, ads from local businesses and government announcements.
